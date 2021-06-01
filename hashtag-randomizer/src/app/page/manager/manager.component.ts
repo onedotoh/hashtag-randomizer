@@ -19,7 +19,7 @@ export class ManagerComponent implements OnInit {
   constructor(private message: NzMessageService) { }
 
   ngOnInit() {
-    this.high = '#mdcommunity #zbrush #thegraphicspr0ject #surreal42 #rsa_graphics #c4d #cinema4d #graphicdesign #behance #dribbble #graphicgang #adobe #photoshop #adobephotoshop #adobeillustrator #render #creative #abstract #inspiration #3dsmax #cgi #3dmodel #3dart #3d #3d #cgi #render #adobephotoshop #thegraphicspr0ject #creative #cinema4d #3dsmax #zbrush #adobe';
+    this.high = '#mdcommunity #zbrush #thegraphicspr0ject #surreal42 #rsa_graphics #c4d #graphicdesign #behance #dribbble #graphicgang #adobe #photoshop #adobephotoshop #adobeillustrator #render #creative #abstract #inspiration #3dsmax #cgi #3dmodel #3dart #3d #cgi #render #adobephotoshop #thegraphicspr0ject #creative #cinema4d #3dsmax #zbrush #adobe';
     this.mid = '#dailyrender #renderzone #c4dart #octanerender #otoy #xuxoe #mgcollective #redshift #b3d #blender3d #renderzone #cgsociety #autodeskmaya #fa_hypnotic #d_expo #howiseedatworld #gsgdaily #mograph #dribbblers #gfxmob #eyeondesign #designfeed';
     this.low = '#blendercommunity #blenderrender #cgiart #digitalsculpting #3dsculpting #zbrushart #zbrushsculpt #thedesigntalks #blender28 #digital3d #zbrushcentral';
     this.brand = '#polyspheric';
